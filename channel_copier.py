@@ -4,7 +4,7 @@ import re
 
 # ==== CHANGE THESE TWO LINES ====
 api_id = 30386961                   
-api_hash = 8d24b078c7f8167108e3ee01b0a48195      
+api_hash = '8d24b078c7f8167108e3ee01b0a48195'      
 # ================================
 
 SOURCE_CHANNELS = [
